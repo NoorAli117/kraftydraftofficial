@@ -1,0 +1,6 @@
+framework module Pods_KraftyDraftOfficial {
+  umbrella header "Pods-KraftyDraftOfficial-umbrella.h"
+
+  export *
+  module * { export * }
+}
